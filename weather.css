@@ -1,0 +1,31 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: url(./images/thunderstorm-3440450__340.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  color: darkgoldenrod;
+  background-color: black;
+}
+.temp {
+  font-size: 100px;
+  color: thistle;
+  text-shadow: 1px 1px 39px 1px darkgreen;
+}
+.card {
+  background: transparent;
+  box-shadow: inset 1px 1px 59px 1px #ffff;
+  margin: 0 0 0 436px;
+  border-radius: 78px;
+}
+.icon img {
+  float: right;
+  position: absolute;
+  right: 0px;
+  top: -25px;
+  width: 157px;
+}
+.des {
+  font-size: 30px;
+}
